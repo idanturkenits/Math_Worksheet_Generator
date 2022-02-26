@@ -1,2 +1,2 @@
-# Math_Worksheet_Generator
+# Math Worksheet Generator
 equation worksheet generator for my little brother
